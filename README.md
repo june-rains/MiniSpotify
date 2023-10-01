@@ -2,7 +2,7 @@
 ## Summary
 This is an **Android** Based music player mobile application written in **Kotlin**   
 Implement features are as following:
-* Implemented mock server using Ktor to give data feed like: album information, music source file for mobile application 
+* Implemented mock server using Ktor to give data feed like: album information, music source file
 * User can check album information by clicking it
 * User can select one of songs in album to play it
 * User can add songs into their favorite list
